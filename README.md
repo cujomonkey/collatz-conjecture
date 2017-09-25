@@ -1,5 +1,5 @@
 # collatz-conjecture
-Collatz Conjecture Code
+Collatz Conjecture
 
 The Collatz conjecture is a conjecture in mathematics named after Lothar Collatz.
 It concerns a sequence defined as follows: start with any positive integer n.
