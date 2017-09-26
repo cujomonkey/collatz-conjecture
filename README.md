@@ -1,4 +1,4 @@
-# collatz-conjecture
+#collatz-conjecture
 Collatz Conjecture
 
 The Collatz conjecture is a conjecture in mathematics named after Lothar Collatz.
